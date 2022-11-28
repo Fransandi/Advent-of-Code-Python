@@ -10,17 +10,16 @@ This repository is a basic structure for people interested in solving the Advent
 
 This repository currently includes the example input/output for the 2021 puzzles and the structure for the upcoming 2022 challenge (I will be adding the example input/output of the puzzles once they get published), but anyway; it can easily be adapted for any new or past year.
 
+
+👉 Check the article I wrote about my experience with the challenge: [How To Save Christmas by Coding: Advent of Code](https://blog.fransandi.com/advent-of-code-43b3e5dd3d2d)
+
 👉 Feel free to check my solutions to each puzzle [here](https://github.com/Fransandi/Advent-of-Code-Solutions.git).
 
 ##  What is the Advent of Code? 🧩
 
 The Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.
 
-You don't need a computer science background to participate - just a little programming knowledge and some problem-solving skills will get you pretty far. Nor do you need a fancy computer; every problem has a solution that completes in at most 15 seconds on ten-year-old hardware.
-
-All the credits about the Puzzles, Code, & Design belong to *[Eric Wastl](https://twitter.com/ericwastl)*
-
-More information on the official website: https://adventofcode.com
+All the credits about the Puzzles, Code, & Design belong to *[Eric Wastl](https://twitter.com/ericwastl)* (more information on https://adventofcode.com)
 
 <img src="https://i.ibb.co/n0cZfrT/160be980-3b1a-11eb-9dbe-439a40adfa99.png" alt="drawing" width="500"/>
 
@@ -61,7 +60,7 @@ Feel free to clone/fork this repo and use it as it best fits your needs.
 
     <img src="https://i.postimg.cc/zvjgH2LN/Screen-Shot-2022-10-28-at-18-06-22.png" alt="drawing" width="400"/>
 
-If you want an example of use of this project, check [this repsitory](https://github.com/Fransandi/Advent-of-Code-Python-Solutions) with my solutions to previous years' challenges using this structure.
+If you want an example of use of this project, check [this repository](https://github.com/Fransandi/Advent-of-Code-Python-Solutions) with my solutions to previous years' challenges using this structure.
 
 ***
 
@@ -69,7 +68,7 @@ If you want an example of use of this project, check [this repsitory](https://gi
 
 Here are a couple of ideas to share your appreciation in case this repository was helpful to you in some way:
 
-- ⭐ Give this repo a star 
-- ✍️ Follow me on Medium: [@fransandi](https://medium.com/@fransandi)
-- 🐦 Share your progress on the AoC with me on Twitter: [@fransandi7](https://twitter.com/fransandi7)
-- 🚀 Send me your suggestions to improve the project
+- Give this repo a star ⭐
+- Follow me on ✍️ Medium [@fransandi](https://medium.com/@fransandi) and 🐦 Twitter [@fransandi7](https://twitter.com/fransandi7)
+-  Share your progress 💬 in the Advent of Code with me on Twitter ([@fransandi7](https://twitter.com/fransandi7))
+- Send me your suggestions to improve this project 🚀 
