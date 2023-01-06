@@ -8,8 +8,7 @@
 
 This repository is a basic structure for people interested in solving the Advent of Code puzzles using *python3*. Use it to test your solutions easier and keep track of your code for future reference. The challenge is held every year between the 1st and 25th of December.
 
-This repository currently includes the example input/output for the 2021 puzzles and the structure for the upcoming 2022 challenge (I will be adding the example input/output of the puzzles once they get published), but anyway; it can easily be adapted for any new or past year.
-
+This repository currently includes the example input/output for the puzzles of the years *2021* and *2022*, and I´ll be adding more as new challenges get published. Anyway, you can quickly adapt it for any other year.
 
 👉 Check the article I wrote about my experience with the challenge: [How To Save Christmas by Coding: Advent of Code](https://blog.fransandi.com/advent-of-code-43b3e5dd3d2d)
 
