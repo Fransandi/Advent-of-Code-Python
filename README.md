@@ -1,30 +1,31 @@
-# 🎄 Advent of Code 🗓 - Python Structure 
+# 🎄 Advent of Code 🗓 - Python Structure
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## Introduction 
+## Introduction
 
-This repository is a basic structure for people interested in solving the Advent of Code puzzles using *python3*. Use it to test your solutions easier and keep track of your code for future reference. The challenge is held every year between the 1st and 25th of December.
+This repository is a basic structure for people interested in solving the Advent of Code puzzles using _python3_. Use it to test your solutions easier and keep track of your code for future reference. The challenge is held every year between the 1st and 25th of December.
 
-This repository currently includes the example input/output for the puzzles of the years *2021* and *2022*, and I´ll be adding more as new challenges get published. Anyway, you can quickly adapt it for any other year.
+This repository currently includes the example input/output for the puzzles of the years _2021_ and _2022_, and I´ll be adding more as new challenges get published. Anyway, you can quickly adapt it for any other year.
 
 👉 Check the article I wrote about my experience with the challenge: [How To Save Christmas by Coding: Advent of Code](https://blog.fransandi.com/advent-of-code-43b3e5dd3d2d)
 
 👉 Feel free to check my solutions to each puzzle [here](https://github.com/Fransandi/Advent-of-Code-Solutions.git).
 
-##  What is the Advent of Code? 🧩
+## What is the Advent of Code? 🧩
 
 The Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.
 
-All the credits about the Puzzles, Code, & Design belong to *[Eric Wastl](https://twitter.com/ericwastl)* (more information on https://adventofcode.com)
+All the credits about the Puzzles, Code, & Design belong to _[Eric Wastl](https://twitter.com/ericwastl)_ (more information on https://adventofcode.com)
 
 <img src="https://i.ibb.co/n0cZfrT/160be980-3b1a-11eb-9dbe-439a40adfa99.png" alt="drawing" width="500"/>
 
 ## About this project
 
 I created this repository to:
+
 - 🏗 Provide a basic template structure to solve the Advent of Code puzzles using python3
 - 👨‍💻 Keep track of your progress during the challenge
 - 🧪 Test your solutions easier and faster against the example input/output during development
@@ -41,27 +42,37 @@ Feel free to clone/fork this repo and use it as it best fits your needs.
 1. Copy the unique input you were given in the corresponding `/<YEAR>/inputs/<DAY>.txt` file.
 1. Code your solution in the corresponding `/<YEAR>/solutions/<DAY>.py` file.
 1. Test your solution by executing the run.py file from the root of the repository with the following command:
-    ```
-    $ python3 run.py <YEAR>/<DAY> 
-    // e.g: python3 run.py 2021/1
-    ```
-1. You'll see the results of testing your solution against the example's input, and if passed, you'll also know the solution for your custom input (the one you need to earn the star ⭐️). Once the *Part One* of the puzzle is correct, it will also start testing your solution to the *Part Two*.
+   ```
+   $ python3 run.py <YEAR>/<DAY>
+   // e.g: python3 run.py 2021/1
+   ```
+1. You'll see the results of testing your solution against the example's input, and if passed, you'll also know the solution for your custom input (the one you need to earn the star ⭐️). Once the _Part One_ of the puzzle is correct, it will also start testing your solution to the _Part Two_.
 
-    <img src="https://i.postimg.cc/Sx8vJwFx/Screen-Shot-2022-10-26-at-02-25-08.png" alt="drawing" width="700"/>
+<img src="https://i.postimg.cc/Sx8vJwFx/Screen-Shot-2022-10-26-at-02-25-08.png" alt="drawing" width="700"/>
 
 (Optional)
-1. You can also check your progress by getting an overview of your solutions for a specific year by executing the run.py file from the root of the repository with the following command:
-    ```
-    $ python3 run.py <YEAR>
-    // e.g: python3 run.py 2021
-    ```
-1. You'll see the results of testing all your solutions (*Part One* and *Part Two*) against every day example's input, and if it passed or failed, alongisde with a bar showing your progress to motivate you to keep going 💪.
 
-    <img src="https://i.postimg.cc/zvjgH2LN/Screen-Shot-2022-10-28-at-18-06-22.png" alt="drawing" width="400"/>
+1. You can also check your progress by getting an overview of your solutions for a specific year by executing the run.py file from the root of the repository with the following command:
+   ```
+   $ python3 run.py <YEAR>
+   // e.g: python3 run.py 2021
+   ```
+1. You'll see the results of testing all your solutions (_Part One_ and _Part Two_) against every day example's input, and if it passed or failed, alongisde with a bar showing your progress to motivate you to keep going 💪.
+
+<img src="https://i.postimg.cc/zvjgH2LN/Screen-Shot-2022-10-28-at-18-06-22.png" alt="drawing" width="400"/>
 
 If you want an example of use of this project, check [this repository](https://github.com/Fransandi/Advent-of-Code-Python-Solutions) with my solutions to previous years' challenges using this structure.
 
-***
+---
+
+## How to add a new year?
+
+Just execute the generate_year script with the year you want to generate, which will generate all required files
+
+```
+$ python3 generate_year.py <YEAR>
+// e.g: python3 generate_year.py 2023
+```
 
 ## How to contribute?
 
@@ -69,5 +80,5 @@ Here are a couple of ideas to share your appreciation in case this repository wa
 
 - Give this repo a star ⭐
 - Follow me on ✍️ Medium [@fransandi](https://medium.com/@fransandi) and 🐦 Twitter [@fransandi7](https://twitter.com/fransandi7)
--  Share your progress 💬 in the Advent of Code with me on Twitter ([@fransandi7](https://twitter.com/fransandi7))
-- Send me your suggestions to improve this project 🚀 
+- Share your progress 💬 in the Advent of Code with me on Twitter ([@fransandi7](https://twitter.com/fransandi7))
+- Send me your suggestions to improve this project 🚀
