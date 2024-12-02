@@ -44,7 +44,7 @@ Feel free to clone/fork this repo and use it as it best fits your needs.
 1. Test your solution by executing the run.py file from the root of the repository with the following command:
    ```
    $ python3 run.py <YEAR>/<DAY>
-   // e.g: python3 run.py 2021/1
+   // e.g: python3 run.py 2024/1
    ```
 1. You'll see the results of testing your solution against the example's input, and if passed, you'll also know the solution for your custom input (the one you need to earn the star ⭐️). Once the _Part One_ of the puzzle is correct, it will also start testing your solution to the _Part Two_.
 
@@ -55,7 +55,7 @@ Feel free to clone/fork this repo and use it as it best fits your needs.
 1. You can also check your progress by getting an overview of your solutions for a specific year by executing the run.py file from the root of the repository with the following command:
    ```
    $ python3 run.py <YEAR>
-   // e.g: python3 run.py 2021
+   // e.g: python3 run.py 2024
    ```
 1. You'll see the results of testing all your solutions (_Part One_ and _Part Two_) against every day example's input, and if it passed or failed, alongisde with a bar showing your progress to motivate you to keep going 💪.
 
@@ -79,6 +79,7 @@ $ python3 generate_year.py <YEAR>
 Here are a couple of ideas to share your appreciation in case this repository was helpful to you in some way:
 
 - Give this repo a star ⭐
-- Follow me on ✍️ Medium [@fransandi](https://medium.com/@fransandi) and 🐦 Twitter [@fransandi7](https://twitter.com/fransandi7)
-- Share your progress 💬 in the Advent of Code with me on Twitter ([@fransandi7](https://twitter.com/fransandi7))
+- Check my blog 👨‍💻 https://www.fransandi.com/
+- Follow me on X [@fransandi7](https://twitter.com/fransandi7)
+- Share your progress 💬 in the Advent of Code with me on X ([@fransandi7](https://twitter.com/fransandi7))
 - Send me your suggestions to improve this project 🚀
