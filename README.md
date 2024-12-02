@@ -80,6 +80,6 @@ Here are a couple of ideas to share your appreciation in case this repository wa
 
 - Give this repo a star ⭐
 - Check my blog 👨‍💻 https://www.fransandi.com/
-- Follow me on X [@fransandi7](https://twitter.com/fransandi7)
+- Follow me on [LinkedIn](https://www.linkedin.com/in/fransandi/) and X [@fransandi7](https://twitter.com/fransandi7)
 - Share your progress 💬 in the Advent of Code with me on X ([@fransandi7](https://twitter.com/fransandi7))
 - Send me your suggestions to improve this project 🚀
